@@ -27,3 +27,5 @@ This guide covers basic GitHub commands and setup instructions for macOS, Linux,
 Git is usually pre-installed on macOS. If not, you can install it using Homebrew:
 ```bash
 brew install git
+
+Linux (Debian/Ubuntu)
