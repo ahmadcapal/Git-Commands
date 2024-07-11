@@ -38,5 +38,5 @@ sudo apt-get install git
 sudo dnf install git
 ```
 #### Windows
-Download Git for Windows from git-scm.com and follow the installation instructions.
+Download Git for Windows from [git-scm.com](https://git-scm.com/) and follow the installation instructions.
 
