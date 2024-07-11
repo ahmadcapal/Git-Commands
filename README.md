@@ -33,4 +33,10 @@ brew install git
 sudo apt-get update
 sudo apt-get install git
 ```
+#### Linux (Fedora)
+```bash
+sudo dnf install git
+```
+#### Windows
+Download Git for Windows from git-scm.com and follow the installation instructions.
 
