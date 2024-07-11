@@ -28,3 +28,6 @@ Git is usually pre-installed on macOS. If not, you can install it using Homebrew
 ```bash
 brew install git
 
+```
+#### macOS
+
